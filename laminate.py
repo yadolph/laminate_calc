@@ -1,4 +1,4 @@
-
+# version 1.0
 
 class bcolors:
     yellow = '\033[93m'
